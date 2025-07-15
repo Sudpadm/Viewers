@@ -1,0 +1,4 @@
+[build]
+  base = "platform/app"
+  command = "yarn run build"
+  publish = "dist"
